@@ -24,6 +24,8 @@
 
 ## Passionate About
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,opencv,tensorflow&perline=6)](https://skillicons.dev)
+
+
 First Tech Challenge
 ## Future Learning Plan
 [![My Skills](https://skillicons.dev/icons?i=githubactions,ps,dotnet,html,rust,swift,kotlin&perline=6)](https://skillicons.dev)
