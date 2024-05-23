@@ -17,12 +17,14 @@
 
 - Arduino - Data Reading from Analog Sensors and Data Retrieval from OpenWeather API
 - FPGA - Image Processing System and Camera Interface
+- FTC - Code (TensorFlow, Vuforia, Odometry)
 
 ## Current Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,py,java,matlab,md,obsidian&perline=5)](https://skillicons.dev)
 
 ## Passionate About
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,opencv,tensorflow&perline=6)](https://skillicons.dev)
+First Tech Challenge
 ## Future Learning Plan
 [![My Skills](https://skillicons.dev/icons?i=githubactions,ps,dotnet,html,rust,swift,kotlin&perline=6)](https://skillicons.dev)
 
