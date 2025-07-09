@@ -60,6 +60,64 @@ This project simulates a smart parking system using a **Raspberry Pi** and **Ard
 
 [![My Skills](https://skillicons.dev/icons?i=py,arduino,raspberrypi,opencv,mysql,linux,git,vscode)](https://skillicons.dev)
 
+## 👨‍💻 Projects
+[![SafetyMap](https://img.shields.io/badge/SafetyMap-345?style=flat-square&logo=Github&logoColor=white)](https://github.com/UniHack2024)
+[![FPGA Project](https://img.shields.io/badge/FPGA_Project-345?style=flat-square&logo=Github&logoColor=white)](https://github.com/LD-FPGA-Project/FPGA-Video-Transmission-and-Image-Processing)
+[![Arduino Project](https://img.shields.io/badge/Arduino_Project-345?style=flat-square&logo=Github&logoColor=white)](https://github.com/orgs/DEM-Arduino-Project/repositories)
+
+#### Key Features:
+
+- Interactive Map: Mark and view safety alerts using Google Maps.
+- Real-Time Notifications: Alerts for hazards in your vicinity.
+- Automated Civic Complaints: Sends reports to local town halls.
+- Community Trust System: Users vote to verify alerts.
+
+#### Tech Stack:
+
+- Frontend: Java (Android)
+- Backend: Python (Django/Flask)
+- Maps: Google Maps API
+- Database: PostgreSQL
+- Notifications: Firebase Cloud Messaging (FCM)
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,gradle,postgres,django,firebase&perline=7)](https://skillicons.dev)
+
+### FPGA Video Transmission & Image Processing
+
+A video transmission and image processing system using FPGA, with real-time camera input and display via VGA. Supports basic image processing and integrates with OpenCV for face recognition through UART.
+
+#### Hardware & Tools:
+
+- FPGA: Xilinx Nexys 4 Artix-7
+- Camera: OV7670
+- IDE: AMD Vivado 2023
+- Languages: Verilog / VHDL, Python
+
+#### Features:
+
+- Video output to monitor via VGA
+- UART webcam feed for OpenCV-based face recognition
+- Basic image processing on 12-bit RGB image
+
+[![My Skills](https://skillicons.dev/icons?i=py,opencv&perline=7)](https://skillicons.dev)
+
+### Arduino Small Projects
+
+#### Hardware & Tools:
+
+  - Arduino UNO R4 WiFi
+  - I2C LCD Display
+  - DHT11 Temperature and Humidity Sensor
+
+#### Projects:
+
+  - Data Reading from Temperature and Humidity Sensors
+  - Data Retrieval using OpenWeather API Keys
+  - Data Output using an LCD Display or the on-board LED Dot Matrix
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp&perline=7)](https://skillicons.dev)
+
+
 
 
 
