@@ -119,6 +119,28 @@ A video transmission and image processing system using FPGA, with real-time came
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp&perline=7)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-1303&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Daria-1303&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daria-1303&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
+
+
+
 
 
 
