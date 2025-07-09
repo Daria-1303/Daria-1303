@@ -119,20 +119,20 @@ A video transmission and image processing system using FPGA, with real-time came
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,cpp&perline=7)](https://skillicons.dev)
 
-<div align="center">
-
-  <!-- 🔥 GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Daria-1303&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- 👁️ Profile Views -->
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Daria-1303&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
+<div align="left">
 
   <!-- 📊 GitHub Stats -->
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+  <!-- 🔥 GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Daria-1303&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
+   <!-- 👁️ Profile Views -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Daria-1303&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
 
 </div>
 
