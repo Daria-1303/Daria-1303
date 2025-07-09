@@ -125,10 +125,6 @@ A video transmission and image processing system using FPGA, with real-time came
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
-  <!-- 📊 GitHub Stats -->
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-
   <!-- 🔥 GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Daria-1303&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
