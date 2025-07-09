@@ -9,14 +9,15 @@
 
 ## Experience in Work Field
 
-### Full Stack Engineer at Hibyte
+## Full Stack Engineer at Hibyte
 - 🎯GameBox Summer Camp 2025🧩
 - 🗓 July 1 – October 31, 2025
+  
 [![My Skills](https://skillicons.dev/icons?i=typescript,angular,nodejs,html,css,&perline=7)](https://skillicons.dev)
 
-### Embedded Systems Training 
+## Embedded Systems Training 
 
-#### Smart Parking Systems
+### Smart Parking Systems
 
 Participated in Magna Electronics's Academic Labs  program focused on embedded systems, where I:
 
@@ -25,11 +26,11 @@ Participated in Magna Electronics's Academic Labs  program focused on embedded s
 - Interfaced with **sensors and actuators** through **UART**, **SPI**, and **I2C** communication protocols
 - Had the chance to understand the importance of full **automotive software development cycle**: design → coding → simulation → testing → debugging.
 
-#### 🚗 Project Overview
+### 🚗 Project Overview
 
 This project simulates a smart parking system using a **Raspberry Pi** and **Arduino**, featuring real-time **license plate detection**, **automated barrier movement**, and **entry/exit logging** using a **MariaDB** database.
 
-#### Tools & Technologies Used
+### Tools & Technologies Used
 | Component | Technologies |
 |----------|--------------|
 | Microcontroller | Arduino UNO |
@@ -42,7 +43,7 @@ This project simulates a smart parking system using a **Raspberry Pi** and **Ard
 | IDEs & Tools | Arduino IDE, VS Code |
 | Hardware Debugging | Oscilloscope, Logic Analyzer, Multimeter|
 
-#### 🔍 Features Implemented
+### 🔍 Features Implemented
 
 - **YOLO-based license plate detection** on Raspberry Pi using camera input.
 - **MariaDB** database used to store authorized license plates and access logs.
@@ -50,7 +51,7 @@ This project simulates a smart parking system using a **Raspberry Pi** and **Ard
 - **Multithreading** on Raspberry Pi to independently control two physical barriers (entry & exit) in parallel.
 - Real-time validation and response based on detected plate vs. database.
 
-#### 🧠 Key Learning Areas
+### 🧠 Key Learning Areas
 
 - Embedded C programming on **Arduino** to control motors and sensors.
 - **Python scripting** for computer vision, threading, and serial I/O.
