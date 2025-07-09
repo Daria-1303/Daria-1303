@@ -65,6 +65,8 @@ This project simulates a smart parking system using a **Raspberry Pi** and **Ard
 [![FPGA Project](https://img.shields.io/badge/FPGA_Project-345?style=flat-square&logo=Github&logoColor=white)](https://github.com/LD-FPGA-Project/FPGA-Video-Transmission-and-Image-Processing)
 [![Arduino Project](https://img.shields.io/badge/Arduino_Project-345?style=flat-square&logo=Github&logoColor=white)](https://github.com/orgs/DEM-Arduino-Project/repositories)
 
+## SafetyMap - Community-driven Safety App
+
 #### Key Features:
 
 - Interactive Map: Mark and view safety alerts using Google Maps.
@@ -82,7 +84,7 @@ This project simulates a smart parking system using a **Raspberry Pi** and **Ard
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,gradle,postgres,django,firebase&perline=7)](https://skillicons.dev)
 
-### FPGA Video Transmission & Image Processing
+## FPGA Video Transmission & Image Processing
 
 A video transmission and image processing system using FPGA, with real-time camera input and display via VGA. Supports basic image processing and integrates with OpenCV for face recognition through UART.
 
@@ -101,7 +103,7 @@ A video transmission and image processing system using FPGA, with real-time came
 
 [![My Skills](https://skillicons.dev/icons?i=py,opencv&perline=7)](https://skillicons.dev)
 
-### Arduino Small Projects
+## Arduino Small Projects
 
 #### Hardware & Tools:
 
